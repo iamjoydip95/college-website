@@ -1,0 +1,307 @@
+body{background-color: white;
+width: 1500px;
+height: 900px;
+
+
+
+
+}
+
+
+
+
+
+
+
+.wrapheader{height: 30px;
+    width:100%;
+    background-color: #ff5522;
+    margin: -8px;
+  }
+  .menubar li{
+
+  	display: inline-block;
+
+  	font-size: 20px;
+  }
+ span{ margin: 0px 10px;
+ }
+
+
+ .header{height: 350px;
+ 	width: 65%;
+ 	background-color: #ff5522;
+
+margin: -50px 60px 0px 235px;
+
+
+
+}
+.logoimg{height: 350px;
+	width: 100%
+}
+.navbar{height: 40px;
+	width: 100%;
+	background-color: #ff5522;
+	margin: 400px 0px;
+}
+ 
+ .menu ul li{ display: inline; 
+font-size: 17px;
+margin: 7px 7px 5px 7px;
+line-height: 2.5;
+
+ }
+ .menu li a{
+text-decoration: none;
+color: white;
+ }
+.menu li:hover{
+	background-color: red;
+	line-height: 1.5;
+}
+.NOTICE{
+
+	background-color: red;
+	height: 50px;
+	width: 100%
+  margin:    -50px 0px 10px 0px;
+}
+.sidebar{
+
+background-color: #ff5522;
+	height: 1009px;
+	width: 20%;
+	margin: -22px 0px 50px;
+}
+
+
+
+
+	.sidebar2{
+
+background-color: #ff5522;
+height: 1000px;
+width: 270px;
+float: right;
+
+margin: 0px 0px 0px 20px;
+
+
+}
+
+
+.mainbody{
+background-color: black;
+
+height: 500px;
+width: 930px;
+margin: -1060px 300px;
+
+background-image: url(missionindia.jpeg);
+
+background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.user{ margin: 20px 0px 0px 10px;}
+.txt{
+	margin: 10px 25px 10px;
+}
+.login{
+
+	margin: 40px 0px 0px 10px;
+}
+.txt2{
+
+margin: 10px 0px 10px 10px;
+
+}
+.log{
+
+margin: 20px 20px 0px 20px ;
+
+
+}
+.border{
+	border-top-style: solid;
+	border-right-style: solid;
+
+
+}
+.not{
+
+
+	margin: -10px 0px 0px 650px;
+
+
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	background-color: white; 
+}
+
+#txt{
+	margin: 25px 60px 0px ;
+
+}
+	
+	#form{
+
+margin: 20px;
+
+
+
+	}
+	.latest{
+
+
+ margin: 0px -15px 0px -5px;
+
+
+	}
+
+
+	.p{
+
+
+
+margin: 0px 50px 20px 0px;
+
+	}
+
+
+
+	.border2{border-top-style: solid;
+		border-bottom-style: solid;
+		border-right-style: solid;
+		border-left-style: solid;
+
+	}
+	.but:hover{
+		
+background-color: black;
+
+		margin:-10px -10px 0px -10px;
+	}
+	.nut ul li:hover{
+		background-color: green;
+
+
+
+	
+	}
+	.footer{
+
+		border-top-style: solid;
+		border-bottom-style: solid;
+		border-right-style: solid;
+		border-left-style: solid;
+		border-radius: 10px;
+		border-color: red;
+
+background-color: white;
+height: 500px;
+width: 935px;
+margin:1050px 295px 0px;
+
+}
+#pp{
+
+
+	margin: 5px 10px;
+	padding: 100px;
+}
+ #studentlog{
+
+
+
+
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+
+
+ }
+ #rel{
+background-color: gray;
+color: black;
+
+
+ 	border-top-style: solid;border-right-style: solid; border-left-style:  solid; border-bottom-style: solid;
+
+ 	height: 40px;
+ 	width: 190px;
+ 	margin: 10px 0px 0px 45px;
+ }
+ .link a:hover{
+    text-shadow: 0px 2px;
+ 	background-color: white;
+ 	height: 100px
+ 	width:  300px;
+ 	line-height: 10px;
+ }
+ .brd{
+
+ 	border-top: solid;
+ 	border-left: solid;
+ 	border-right: solid;
+ 	border-bottom: solid;
+ }
+ .brd:hover{
+ 	background-color: green;
+ }
+ 
+ .footer1{
+
+ 	background-color: white;
+ 	height: 300px;
+ 	width: 100%;
+ 	margin: 1080px 0px 400px 0px;
+ }
+
+
+
+
+ .footer2{
+
+
+
+ 	background-color: green;
+ 	height: 300px;
+ 	width: 100%;
+ 	margin: -400px 0px 0px 0px;
+ }
+
+
+ 
+ #wrapper{
+ 	background-image: url(logo-1.jpg);
+ }
+.footer3{
+
+background-color: #000000ba;
+
+height: 100px;
+width: 100%;
+
+margin: -20px 0px -20px ;
+ }
